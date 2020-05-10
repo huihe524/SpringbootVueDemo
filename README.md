@@ -11,9 +11,10 @@
    1. SpringBoot
    2. SpringData + JPA
    3. MySQL
-   4. Shiro
+   4. ~~Shiro~~
 
 ##   学习步骤
 
 1. maven 环境配置
-2. 
+2. 创建springboot模块
+3. 安装 Vue CLI  [🔗下载地址](https://nodejs.org/en/)
