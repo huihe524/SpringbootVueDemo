@@ -15,7 +15,10 @@
 
 ##   学习步骤
 
-1. maven 环境配置
+1. maven 环境配置 
+
+   1. [Maven 下载地址](http://maven.apache.org/download.cgi) 
+   2. [Maven教程](https://www.runoob.com/maven/maven-setup.html)
 
 2. 创建springboot模块
 
