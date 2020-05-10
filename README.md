@@ -17,4 +17,6 @@
 
 1. maven 环境配置
 2. 创建springboot模块
+   1. 运行BackApplication验证8080端口
+   2. 编写第一个controller层进行测试
 3. 安装 Vue CLI  [🔗下载地址](https://nodejs.org/en/)
