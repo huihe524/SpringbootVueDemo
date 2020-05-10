@@ -30,6 +30,8 @@
          > @GetMapping("/index")
          > @ResponseBody //将返回的字符串进行解析在前端显示
          > //@ResponseBody的作用其实是将java对象转为json格式的数据。
+         >
+         > @RestController注解相当于@ResponseBody ＋ @Controller合在一起的作用
 
       2. ```java
          package com.huihe.back.controller;
@@ -52,3 +54,20 @@
          ```
 
 3. 安装 Vue CLI  [🔗下载地址](https://nodejs.org/en/)
+
+   1. 使用 npm 安装 Vue CLI  
+   2. npm 是集成在 Node.js 中  
+
+      - 安装npm [访问官网](https://nodejs.org/en/)
+
+      - `node -v`，检查是否安装成功
+   3.`npm -g install npm` ，将 npm 更新至最新版本
+   4. 使用 cnmp 的好处是在日后下载内容时会比较快
+      - npm install -g cnpm --registry=https://registry.npm.taobao.org
+   5. 使用 `npm install -g vue-cli` 安装脚手架
+   
+4.  初始化项目
+
+   1. vue init webpack front(这里的front可替换成项目名)
+   2. 一路按y 或者回车
+   3. 
