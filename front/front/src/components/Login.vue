@@ -25,18 +25,17 @@ export default {
       // alert('用户名' + this.data.username + '密码' + this.data.password)
       alert('用户名' + this.loginForm.username + '密码' + this.loginForm.password)
       this.$axios
-        .get('/index')
-        // , {
-        //   username: this.loginForm.username,
-        //   password: this.loginForm.password
-        // })
-        // .then(successResponse => {
-        //   if (successResponse.data.code === 200) {
-        //     this.$router.replace({path: '/index'})
-        //   }
-        // })
-        // .catch(failResponse => {
-        // })
+        .post('/login', {
+          username: this.loginForm.username,
+          password: this.loginForm.password
+        })
+        .then(successResponse => {
+          if (successResponse.data.code === 200) {
+            this.$router.replace({path: '/index'})
+          }
+        })
+        .catch(failResponse => {
+        })
     }
   }
 }
