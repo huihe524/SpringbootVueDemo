@@ -19,6 +19,12 @@ export default {
         password: ''
       }
     }
+  },
+  methods: {
+    login () {
+      // alert('用户名' + this.data.username + '密码' + this.data.password)
+      alert('用户名' + this.loginForm.username + '密码' + this.loginForm.password)
+    }
   }
 }
 </script>

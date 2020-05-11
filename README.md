@@ -70,4 +70,8 @@
 
    1. vue init webpack front(这里的front可替换成项目名)
    2. 一路按y 或者回车
-   3. 
+   3. npm run dev 运行项目测试
+
+5. 安装axios
+
+   1. npm i axios -S安装axios
