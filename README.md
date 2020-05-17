@@ -75,3 +75,5 @@
 5. 安装axios
 
    1. npm i axios -S安装axios
+   
+6. git commit -m+"全称"
