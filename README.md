@@ -1,4 +1,9 @@
+
+
+
+
 # SpringbootVueDemo
+
 👢Springboot+🎄Vue 培训项目
 
 ## [🎉csdn教程地址](https://learner.blog.csdn.net/article/details/88925013)
@@ -75,3 +80,93 @@
 5. 安装axios
 
    1. npm i axios -S安装axios
+
+
+
+## 常用git操作
+
+- clone 项目
+  - git clone + 项目地址
+- git状态查询
+  - git status
+- git添加追踪
+  - git add +文件名
+  - git add + .
+    - （点）代表全部的文件
+- git提交 
+  - git commit -m “备注”
+    - 备注尽量使用英文 因为汉语在命令行里面很有可能会乱码
+- git push 提交到远程仓库
+- git pull 拉取最新版本的代码
+
+- 很重要 git回滚代码
+  - git reset --hard 版本的ID号
+    - git rest 回滚 
+      - --hard硬回滚 （直接强制回滚）
+      - --soft软回滚 （不常用）
+    - 命令行的小常识 
+
+## idea导入项目
+
+- 导入项目 文件夹右键  open folder as Intellij IDEA Project
+
+![1589704363355](C:\Users\hx\AppData\Roaming\Typora\typora-user-images\1589704363355.png)
+
+- 或者是 file open
+  -  ![1589704398413](C:\Users\hx\AppData\Roaming\Typora\typora-user-images\1589704398413.png)
+
+
+
+- 第二步 前端 安装工具包 npm install
+- 运行项目 前端是 npm run dev
+- 后端是 运行 application 的java文件的main方法
+-  ![1589704458521](C:\Users\hx\AppData\Roaming\Typora\typora-user-images\1589704458521.png)
+
+## 前后端登录页面
+
+- Vue 代码
+
+  - ```vue
+    <template>
+    	<div>
+        </div>
+    </template>
+    
+    <script>
+    
+    </script>
+    
+    <style scoped>
+    
+    </style>
+    
+    ```
+
+    ```VUE
+    <template>
+        <div>
+          <p>login .vue</p>
+            用户名:<input type="text" v-model="loginForm.username" placeholder="请输入用户名"/>
+            <br><br>
+            密码： <input type="password" v-model="loginForm.password" placeholder="请输入密码"/>
+            <br><br>
+            <button v-on:click="login">登录</button>
+        </div>
+    </template>
+    ```
+
+    
+
+[前后端结合测试（登录页面开发）](https://learner.blog.csdn.net/article/details/88955387)
+
+- 编写前端页面
+- 设置反向代理
+- 配置页面路由
+- 允许跨域请求
+
+## 后端部分
+
+- User类
+- Result类
+- LoginController层
+
