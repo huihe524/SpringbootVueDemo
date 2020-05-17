@@ -1,4 +1,9 @@
+
+
+
+
 # SpringbootVueDemo
+
 👢Springboot+🎄Vue 培训项目
 
 ## [🎉csdn教程地址](https://learner.blog.csdn.net/article/details/88925013)
@@ -101,5 +106,67 @@
       - --soft软回滚 （不常用）
     - 命令行的小常识 
 
+## idea导入项目
 
+- 导入项目 文件夹右键  open folder as Intellij IDEA Project
+
+![1589704363355](C:\Users\hx\AppData\Roaming\Typora\typora-user-images\1589704363355.png)
+
+- 或者是 file open
+  -  ![1589704398413](C:\Users\hx\AppData\Roaming\Typora\typora-user-images\1589704398413.png)
+
+
+
+- 第二步 前端 安装工具包 npm install
+- 运行项目 前端是 npm run dev
+- 后端是 运行 application 的java文件的main方法
+-  ![1589704458521](C:\Users\hx\AppData\Roaming\Typora\typora-user-images\1589704458521.png)
+
+## 前后端登录页面
+
+- Vue 代码
+
+  - ```vue
+    <template>
+    	<div>
+        </div>
+    </template>
+    
+    <script>
+    
+    </script>
+    
+    <style scoped>
+    
+    </style>
+    
+    ```
+
+    ```VUE
+    <template>
+        <div>
+          <p>login .vue</p>
+            用户名:<input type="text" v-model="loginForm.username" placeholder="请输入用户名"/>
+            <br><br>
+            密码： <input type="password" v-model="loginForm.password" placeholder="请输入密码"/>
+            <br><br>
+            <button v-on:click="login">登录</button>
+        </div>
+    </template>
+    ```
+
+    
+
+[前后端结合测试（登录页面开发）](https://learner.blog.csdn.net/article/details/88955387)
+
+- 编写前端页面
+- 设置反向代理
+- 配置页面路由
+- 允许跨域请求
+
+## 后端部分
+
+- User类
+- Result类
+- LoginController层
 
