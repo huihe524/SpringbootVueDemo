@@ -75,3 +75,31 @@
 5. 安装axios
 
    1. npm i axios -S安装axios
+
+
+
+## 常用git操作
+
+- clone 项目
+  - git clone + 项目地址
+- git状态查询
+  - git status
+- git添加追踪
+  - git add +文件名
+  - git add + .
+    - （点）代表全部的文件
+- git提交 
+  - git commit -m “备注”
+    - 备注尽量使用英文 因为汉语在命令行里面很有可能会乱码
+- git push 提交到远程仓库
+- git pull 拉取最新版本的代码
+
+- 很重要 git回滚代码
+  - git reset --hard 版本的ID号
+    - git rest 回滚 
+      - --hard硬回滚 （直接强制回滚）
+      - --soft软回滚 （不常用）
+    - 命令行的小常识 
+
+
+
