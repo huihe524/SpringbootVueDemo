@@ -6,6 +6,7 @@
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/net/minidev/json-smart/2.3/json-smart-2.3-javadoc.jar!/" />
     </JAVADOC>
+    <LIBRARY_FILE />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/net/minidev/json-smart/2.3/json-smart-2.3-sources.jar!/" />
     </SOURCES>

@@ -6,6 +6,7 @@
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.2.7.RELEASE/spring-boot-starter-web-2.2.7.RELEASE-javadoc.jar!/" />
     </JAVADOC>
+    <LIBRARY_FILE />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.2.7.RELEASE/spring-boot-starter-web-2.2.7.RELEASE-sources.jar!/" />
     </SOURCES>

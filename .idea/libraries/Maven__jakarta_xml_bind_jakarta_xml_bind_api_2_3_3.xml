@@ -6,6 +6,7 @@
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3-javadoc.jar!/" />
     </JAVADOC>
+    <LIBRARY_FILE />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3-sources.jar!/" />
     </SOURCES>

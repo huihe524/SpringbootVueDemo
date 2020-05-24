@@ -6,6 +6,7 @@
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.5.2/junit-jupiter-api-5.5.2-javadoc.jar!/" />
     </JAVADOC>
+    <LIBRARY_FILE />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.5.2/junit-jupiter-api-5.5.2-sources.jar!/" />
     </SOURCES>

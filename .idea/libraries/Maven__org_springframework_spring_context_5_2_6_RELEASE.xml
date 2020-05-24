@@ -6,6 +6,7 @@
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE-javadoc.jar!/" />
     </JAVADOC>
+    <LIBRARY_FILE />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE-sources.jar!/" />
     </SOURCES>

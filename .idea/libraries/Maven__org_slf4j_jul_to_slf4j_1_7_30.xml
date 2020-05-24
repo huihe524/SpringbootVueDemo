@@ -6,6 +6,7 @@
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/jul-to-slf4j/1.7.30/jul-to-slf4j-1.7.30-javadoc.jar!/" />
     </JAVADOC>
+    <LIBRARY_FILE />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/jul-to-slf4j/1.7.30/jul-to-slf4j-1.7.30-sources.jar!/" />
     </SOURCES>

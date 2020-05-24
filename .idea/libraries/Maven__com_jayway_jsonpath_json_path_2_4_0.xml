@@ -6,6 +6,7 @@
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.4.0/json-path-2.4.0-javadoc.jar!/" />
     </JAVADOC>
+    <LIBRARY_FILE />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.4.0/json-path-2.4.0-sources.jar!/" />
     </SOURCES>

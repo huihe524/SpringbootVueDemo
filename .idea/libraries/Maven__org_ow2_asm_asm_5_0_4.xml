@@ -6,6 +6,7 @@
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm/5.0.4/asm-5.0.4-javadoc.jar!/" />
     </JAVADOC>
+    <LIBRARY_FILE />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm/5.0.4/asm-5.0.4-sources.jar!/" />
     </SOURCES>

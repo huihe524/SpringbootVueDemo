@@ -6,6 +6,7 @@
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/org/xmlunit/xmlunit-core/2.6.4/xmlunit-core-2.6.4-javadoc.jar!/" />
     </JAVADOC>
+    <LIBRARY_FILE />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/xmlunit/xmlunit-core/2.6.4/xmlunit-core-2.6.4-sources.jar!/" />
     </SOURCES>

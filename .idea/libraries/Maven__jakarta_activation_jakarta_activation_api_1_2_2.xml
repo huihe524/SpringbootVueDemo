@@ -6,6 +6,7 @@
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2-javadoc.jar!/" />
     </JAVADOC>
+    <LIBRARY_FILE />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2-sources.jar!/" />
     </SOURCES>

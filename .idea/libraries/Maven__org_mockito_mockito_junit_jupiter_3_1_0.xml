@@ -6,6 +6,7 @@
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-junit-jupiter/3.1.0/mockito-junit-jupiter-3.1.0-javadoc.jar!/" />
     </JAVADOC>
+    <LIBRARY_FILE />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-junit-jupiter/3.1.0/mockito-junit-jupiter-3.1.0-sources.jar!/" />
     </SOURCES>

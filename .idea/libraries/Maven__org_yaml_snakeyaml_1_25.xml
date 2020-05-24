@@ -6,6 +6,7 @@
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.25/snakeyaml-1.25-javadoc.jar!/" />
     </JAVADOC>
+    <LIBRARY_FILE />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.25/snakeyaml-1.25-sources.jar!/" />
     </SOURCES>

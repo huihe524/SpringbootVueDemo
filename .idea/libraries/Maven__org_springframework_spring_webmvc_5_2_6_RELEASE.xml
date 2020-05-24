@@ -6,6 +6,7 @@
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.6.RELEASE/spring-webmvc-5.2.6.RELEASE-javadoc.jar!/" />
     </JAVADOC>
+    <LIBRARY_FILE />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.6.RELEASE/spring-webmvc-5.2.6.RELEASE-sources.jar!/" />
     </SOURCES>

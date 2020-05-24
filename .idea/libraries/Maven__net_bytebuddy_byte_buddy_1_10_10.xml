@@ -6,6 +6,7 @@
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.10.10/byte-buddy-1.10.10-javadoc.jar!/" />
     </JAVADOC>
+    <LIBRARY_FILE />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.10.10/byte-buddy-1.10.10-sources.jar!/" />
     </SOURCES>

@@ -6,6 +6,7 @@
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/net/minidev/accessors-smart/1.2/accessors-smart-1.2-javadoc.jar!/" />
     </JAVADOC>
+    <LIBRARY_FILE />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/net/minidev/accessors-smart/1.2/accessors-smart-1.2-sources.jar!/" />
     </SOURCES>
