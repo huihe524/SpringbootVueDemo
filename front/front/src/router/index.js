@@ -18,6 +18,11 @@ export default new Router({
       path: '/index',
       name: 'Appindex',
       component: Appindex
+    },
+    {
+      path: '/',
+      name: 'Login',
+      component: Login
     }
   ]
 })
